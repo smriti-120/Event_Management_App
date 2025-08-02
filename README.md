@@ -1,18 +1,28 @@
-// Event Management App
+# Event Management App
 
-This is a simple event management system built with React, TypeScript, Material UI, and react-hook-form. It allows users to add, view, update, and delete events.
+A simple event management system built with React, TypeScript, Material UI, and react-hook-form.  
+It allows users to add, view, update, and delete events efficiently.
 
-//Features
+## Features
 
-- Add events with title, venue, description, and date
-- Display events with indication for past dates
-- Prevent duplicate venue & date
-- Responsive UI with Material UI
-- LocalStorage for data persistence
+- Add events with **title**, **venue**, **description**, and **date**  
+- Display events with visual indication for **past dates**  
+- Prevent duplicate events with the same **venue** and **date**  
+- Responsive UI built using **Material UI**  
+- Data persistence using **localStorage**  
 
-//Getting started
+## Getting Started
 
-To run the project locally:
+Follow these steps to run the project locally:
 
-npm install
-npm start
+1. Clone the repository:
+git clone https://github.com/smriti-120/Event_Management_App
+ 
+2. Install dependencies:
+ npm install
+ npm start
+
+3. Open your browser and visit
+
+ project demo link in netlify
+ https://event-managementapp.netlify.app/
