@@ -19,8 +19,8 @@ Follow these steps to run the project locally:
 git clone https://github.com/smriti-120/Event_Management_App
  
 2. Install dependencies:
- npm install
- npm start
+a). npm install
+b). npm start
 
 3. Open your browser and visit
 
